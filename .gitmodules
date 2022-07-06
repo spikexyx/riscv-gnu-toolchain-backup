@@ -21,9 +21,6 @@
 	path = riscv-gdb
 	url = https://github.com/riscv-collab/riscv-binutils-gdb.git
 	branch = fsf-gdb-10.1-with-sim
-[submodule "qemu"]
-	path = qemu
-	url = https://git.qemu.org/git/qemu.git
 [submodule "musl"]
 	path = musl
 	url = git://git.musl-libc.org/musl
